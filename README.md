@@ -22,7 +22,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/nortonvanz/cookiecutter
+    cookiecutter https://github.com/victor-vilela/cookiecutter_ds
 
 
 ### The directory structure
